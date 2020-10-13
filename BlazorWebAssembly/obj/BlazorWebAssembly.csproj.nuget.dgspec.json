@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\BlazorServer\\BlazorWebAssembly\\BlazorWebAssembly.csproj": {}
+    "G:\\BlazorApp\\BlazorApplication\\BlazorWebAssembly\\BlazorWebAssembly.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\BlazorServer\\BlazorWebAssembly\\BlazorWebAssembly.csproj": {
+    "G:\\BlazorApp\\BlazorApplication\\BlazorWebAssembly\\BlazorWebAssembly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\BlazorServer\\BlazorWebAssembly\\BlazorWebAssembly.csproj",
+        "projectUniqueName": "G:\\BlazorApp\\BlazorApplication\\BlazorWebAssembly\\BlazorWebAssembly.csproj",
         "projectName": "BlazorWebAssembly",
-        "projectPath": "C:\\Users\\User\\source\\repos\\BlazorServer\\BlazorWebAssembly\\BlazorWebAssembly.csproj",
+        "projectPath": "G:\\BlazorApp\\BlazorApplication\\BlazorWebAssembly\\BlazorWebAssembly.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\BlazorServer\\BlazorWebAssembly\\obj\\",
+        "outputPath": "G:\\BlazorApp\\BlazorApplication\\BlazorWebAssembly\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

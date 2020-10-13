@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\BlazorServer\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
+      "projectUniqueName": "G:\\BlazorApp\\BlazorApplication\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
       "projectName": "EmployeeManagement.Models",
-      "projectPath": "C:\\Users\\User\\source\\repos\\BlazorServer\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
+      "projectPath": "G:\\BlazorApp\\BlazorApplication\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\BlazorServer\\EmployeeManagement.Models\\obj\\",
+      "outputPath": "G:\\BlazorApp\\BlazorApplication\\EmployeeManagement.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
